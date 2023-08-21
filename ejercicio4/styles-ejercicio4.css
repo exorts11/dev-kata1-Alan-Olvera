@@ -29,14 +29,7 @@
     align-items: center;
     gap: 10px;
 }
-.mediano-azul-left {
-    display: flex;
-    flex-direction: row;
-    width: 50%;
-    height: 20vh;
-    background-color: cyan;
-    border: 5px solid black;
-}
+
 .mediano-azul {
     display: flex;
     flex-direction: row;
